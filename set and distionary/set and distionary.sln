@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "set and distionary", "set and distionary\set and distionary.pyproj", "{5A76A5E3-858E-47E0-A854-8D55D58C9BDA}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "quantity of word", "quantity of word\quantity of word.pyproj", "{3BF36121-6B74-43F4-B98E-2C32988E34A9}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "f(x)", "f(x)\f(x).pyproj", "{FEED3F63-39D9-4F57-9777-87F1267D3629}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A76A5E3-858E-47E0-A854-8D55D58C9BDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A76A5E3-858E-47E0-A854-8D55D58C9BDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BF36121-6B74-43F4-B98E-2C32988E34A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BF36121-6B74-43F4-B98E-2C32988E34A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEED3F63-39D9-4F57-9777-87F1267D3629}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEED3F63-39D9-4F57-9777-87F1267D3629}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5B0BA28-29D1-4B8C-8A53-12F994DD4B46}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "list", "list\list.pyproj", "{CBA837C1-05A7-4049-A592-2204E4BF8E84}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "neightboor's sum", "neightboor's sum\neightboor's sum.pyproj", "{19C8F98F-81E6-4E30-BDFD-3BF3882B34EC}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "find repeat", "find repeat\find repeat.pyproj", "{85204776-489D-4AEB-88E3-1B2D3EA2E4EE}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "summ of square numbers", "summ of square numbers\summ of square numbers.pyproj", "{74D904F5-CE91-41F6-86C8-ADEC0A61AC03}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "part of the sequence", "part of the sequence\part of the sequence.pyproj", "{860EF49A-D5EF-48C9-A467-B2C108C2B84E}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "find an occurrence", "find an occurrence\find an occurrence.pyproj", "{287C4263-75FD-4A1F-B656-6889F5B7D90E}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "matrix from sum element's", "matrix from sum element's\matrix from sum element's.pyproj", "{F87F04A2-489E-485D-8D39-B34AE6A1A006}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "spiral", "spiral\spiral.pyproj", "{964B2F21-C98F-480D-9837-CD0FE4C0CFE0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBA837C1-05A7-4049-A592-2204E4BF8E84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBA837C1-05A7-4049-A592-2204E4BF8E84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19C8F98F-81E6-4E30-BDFD-3BF3882B34EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19C8F98F-81E6-4E30-BDFD-3BF3882B34EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85204776-489D-4AEB-88E3-1B2D3EA2E4EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85204776-489D-4AEB-88E3-1B2D3EA2E4EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74D904F5-CE91-41F6-86C8-ADEC0A61AC03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74D904F5-CE91-41F6-86C8-ADEC0A61AC03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{860EF49A-D5EF-48C9-A467-B2C108C2B84E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{860EF49A-D5EF-48C9-A467-B2C108C2B84E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{287C4263-75FD-4A1F-B656-6889F5B7D90E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{287C4263-75FD-4A1F-B656-6889F5B7D90E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F87F04A2-489E-485D-8D39-B34AE6A1A006}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F87F04A2-489E-485D-8D39-B34AE6A1A006}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{964B2F21-C98F-480D-9837-CD0FE4C0CFE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{964B2F21-C98F-480D-9837-CD0FE4C0CFE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09C5D305-920D-4B0B-9ADF-7FE4F7F43A24}
+	EndGlobalSection
+EndGlobal

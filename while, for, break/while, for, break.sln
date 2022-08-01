@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "while, for, break", "while, for, break\while, for, break.pyproj", "{0EAA158A-AF39-4AC1-B4AD-9B0E430361FC}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "the smallest common multiple", "the smallest common multiple\the smallest common multiple.pyproj", "{1F5FB040-DBAE-4E43-BE6F-30D502FFF348}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "filtr", "filtr\filtr.pyproj", "{DAF455D5-37C7-4D47-9E79-0A6EEA81E095}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "multiplication table", "multiplication table\multiplication table.pyproj", "{45986C7E-828B-4110-A8E8-0DDB05FA335E}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "arithmetic mean", "arithmetic mean\arithmetic mean.pyproj", "{2EDBD0FA-0469-4581-970B-2537AEC1B803}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EAA158A-AF39-4AC1-B4AD-9B0E430361FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EAA158A-AF39-4AC1-B4AD-9B0E430361FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F5FB040-DBAE-4E43-BE6F-30D502FFF348}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F5FB040-DBAE-4E43-BE6F-30D502FFF348}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAF455D5-37C7-4D47-9E79-0A6EEA81E095}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAF455D5-37C7-4D47-9E79-0A6EEA81E095}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45986C7E-828B-4110-A8E8-0DDB05FA335E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45986C7E-828B-4110-A8E8-0DDB05FA335E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EDBD0FA-0469-4581-970B-2537AEC1B803}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EDBD0FA-0469-4581-970B-2537AEC1B803}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED8143F8-27B1-456D-8283-A1C5CC38DED8}
+	EndGlobalSection
+EndGlobal

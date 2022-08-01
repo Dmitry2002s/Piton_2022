@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "reading and writing", "reading and writing\reading and writing.pyproj", "{42ECE9D0-A58C-4491-A69E-1A8B12B0DE95}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "quantity word", "quantity word\quantity word.pyproj", "{54A2768F-FE16-443A-B099-FD05F50D3CBF}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "student performance", "student performance\student performance.pyproj", "{031DFB44-38F7-4627-8746-242337209F21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42ECE9D0-A58C-4491-A69E-1A8B12B0DE95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42ECE9D0-A58C-4491-A69E-1A8B12B0DE95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54A2768F-FE16-443A-B099-FD05F50D3CBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54A2768F-FE16-443A-B099-FD05F50D3CBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{031DFB44-38F7-4627-8746-242337209F21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{031DFB44-38F7-4627-8746-242337209F21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1351F816-9647-4BBA-9BCE-63324B61B693}
+	EndGlobalSection
+EndGlobal

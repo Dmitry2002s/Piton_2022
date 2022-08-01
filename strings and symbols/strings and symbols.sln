@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "strings and symbols", "strings and symbols\strings and symbols.pyproj", "{40B45850-EA81-465A-B889-5F30CD39077B}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Encoding genom", "Encoding genom\Encoding genom.pyproj", "{9251DA4C-4155-464C-B7A5-13176B89B9F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40B45850-EA81-465A-B889-5F30CD39077B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40B45850-EA81-465A-B889-5F30CD39077B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9251DA4C-4155-464C-B7A5-13176B89B9F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9251DA4C-4155-464C-B7A5-13176B89B9F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33476864-684D-4CEA-9D9B-1B1C787A94F2}
+	EndGlobalSection
+EndGlobal
