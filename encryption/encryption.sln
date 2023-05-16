@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "encryption", "encryption\encryption.pyproj", "{92A34698-4429-4049-9393-97F1EB5AB749}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "orthography", "orthography\orthography.pyproj", "{A29E8C69-DF86-4987-ABF0-925F111306BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92A34698-4429-4049-9393-97F1EB5AB749}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92A34698-4429-4049-9393-97F1EB5AB749}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A29E8C69-DF86-4987-ABF0-925F111306BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A29E8C69-DF86-4987-ABF0-925F111306BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90F69881-E575-4469-938B-31C10368665C}
+	EndGlobalSection
+EndGlobal
