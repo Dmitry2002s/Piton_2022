@@ -77,7 +77,7 @@ while(True):
                 print(f"'Точное значение  интеграла на [{a},{b}] \n f(x) = {str(f)} \n Интеграл = {str(SKF_Simpson(f*p,a,b,) )}  ")
             elif choise == 2 : 
                 print(f"Умные вычисления")
-                n = int(input('Введите количество узлов'))
+                n = 2 #Количество узлов, которые я теперь фиксирую 
                 MOMENTS = moments(p,a,b,n)
                 print('\n полученные моменты весовой функции')
                 for i in range(0,len(MOMENTS)) : 
